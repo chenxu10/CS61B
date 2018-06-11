@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a76cb26-6b01-48ee-b672-0d3f7f43e786" name="Default" comment="" />
+    <list default="true" id="9a76cb26-6b01-48ee-b672-0d3f7f43e786" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,10 +50,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="740" />
-    <option name="y" value="98" />
+    <option name="x" value="108" />
+    <option name="y" value="144" />
     <option name="width" value="1060" />
-    <option name="height" value="688" />
+    <option name="height" value="667" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,7 +145,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="503" y="74" width="1060" height="688" extended-state="0" />
+    <frame x="108" y="144" width="1060" height="667" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />

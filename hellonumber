@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class HelloNumber{
 	public static void main(String[] args){
 	int x;
@@ -7,4 +8,15 @@ public class HelloNumber{
 		x=x+1;
 		}
 	{
+=======
+public class HelloNumber{
+	public static void main(String[] args){
+	int x;
+	x=0;
+	while (x<10){
+		System.out.printIn(x);
+		x=x+1;
+		}
+	{
+>>>>>>> 68787466bce786818594a7ee537e07b70fdf4fdc
 }

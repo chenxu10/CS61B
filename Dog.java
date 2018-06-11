@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Dog {
 	public int weightInPounds;
 
@@ -23,3 +24,21 @@ public class Dog {
 		return d2;
 	}
 }
+=======
+public class Dog{
+	public int weightInPounds;
+	/* One integer constructor for dogs */
+	public Dog(int w){
+		weightInPounds=w;
+	}
+	public void makeNoise(){
+		if (weightInPounds<10){
+			System.out.println("ylp");
+		}else if (weightInPounds<30){
+			System.out.println("bark.");
+		}else{
+			System.out.println("woooooof!");
+		}
+	}
+}
+>>>>>>> 68787466bce786818594a7ee537e07b70fdf4fdc
